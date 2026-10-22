@@ -1,0 +1,6 @@
+{
+  "name": "YojanaSathi — Public Welfare & Agricultural Eligibility Platform",
+  "description": "Deterministic welfare scheme rule engine and multilingual citizen query parser for Indian public and agricultural schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
